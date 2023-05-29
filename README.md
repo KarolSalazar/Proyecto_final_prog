@@ -35,7 +35,20 @@ Se dividió en dos secciones principales, los que contiene la parte de herencias
 ### Otros archivos
 
 los archivos txt que es donde se guardan los diccionarios de la información registrada. y en especial el de info.txt que es el que almacena lo que leyó de la imagen
-
 El archivo imatext.jpg almacena la imagen capturada por el programa
-
 El archivo .gitignore tiene la carpeta que genera visual studio ya que contiene archivos innecesarios, contiene la base de datos que genera el propio programa
+
+## Apuntes de requisitos para el proyecto
+
+1. Decordor 
+2. Manejo avanzado de colecciones
+3. Ciclos
+4. Condicionales
+5. Librerias externas
+6. Clases
+7. Herencia: En los documentos .py almacenados en la carpeta scrips
+8. Funciones
+9. Documentación: constantes a lo largo de los rchivos .py
+10. *args y **kwargs
+11. Manejo de excepciones
+
